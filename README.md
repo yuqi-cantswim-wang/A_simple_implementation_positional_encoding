@@ -1,0 +1,2 @@
+# A_simple_implementation_positional_encoding
+A simple implementation positional encoding for clinical features
